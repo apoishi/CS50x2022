@@ -1,6 +1,6 @@
 # CS50x2021
 
-This is my journey to Introduction to Computer Science | Harvard University.
+This is my journey to Introduction to Computer Science from Harvard University.
 
 About this course:
 
