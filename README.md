@@ -1,4 +1,4 @@
-# CS50x2021
+# CS50x2022
 
 This is my journey to Introduction to Computer Science from Harvard University.
 
